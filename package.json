@@ -1,0 +1,24 @@
+{
+  "name": "cli-adventure-game-12345",
+  "version": "1.0.2",
+  "main": "index.js",
+  "type": "module", "publishConfig": {
+    "access": "public"
+  },
+  "bin": {
+    "12345-cli-adventure-game": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  }
+}
